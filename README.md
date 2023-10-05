@@ -26,6 +26,7 @@ original problem statement:
 
 ### Video Walkthrough
 
+https://youtu.be/LrXwQ6CFrkA 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LrXwQ6CFrkA?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ### 1. Rewrite the Problem in Your Own Words
